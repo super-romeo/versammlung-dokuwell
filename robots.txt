@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://versammlung.dokuwell.com/sitemap.xml
